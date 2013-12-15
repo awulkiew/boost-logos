@@ -25058,8 +25058,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.49497475"
-     inkscape:cx="31.607955"
-     inkscape:cy="362.34055"
+     inkscape:cx="126.0835"
+     inkscape:cy="412.2517"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -25076,7 +25076,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -25084,6 +25084,13 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       id="rect8158"
+       width="1042.5094"
+       height="1472.8342"
+       x="2.0043814"
+       y="30.07189" />
     <g
        id="g3319-1-2-5-1-8-7"
        transform="matrix(0.10419818,0,0,-0.10419818,-28.894892,394.14616)"
@@ -25210,7 +25217,7 @@
            sodipodi:role="line"
            style="font-size:38.40000153px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#49608a;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Denmark;-inkscape-font-specification:Denmark"
            x="112.74373"
-           y="-306.75479">Boost</tspan>
+           y="-306.75479">boost</tspan>
       </text>
     </g>
     <path
@@ -25387,7 +25394,7 @@
            sodipodi:role="line"
            style="font-size:38.40000153px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#49608a;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Denmark;-inkscape-font-specification:Denmark"
            x="112.74373"
-           y="-306.75479">Boost</tspan>
+           y="-306.75479">boost</tspan>
       </text>
     </g>
     <path
@@ -25705,7 +25712,7 @@
            sodipodi:role="line"
            style="font-size:38.40000153px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#49608a;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Denmark;-inkscape-font-specification:Denmark"
            x="112.74373"
-           y="-306.75479">Boost</tspan>
+           y="-306.75479">boost</tspan>
       </text>
     </g>
     <g
@@ -26958,7 +26965,7 @@
            sodipodi:role="line"
            style="font-size:38.40000153px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#49608a;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Denmark;-inkscape-font-specification:Denmark"
            x="112.74373"
-           y="-306.75479">Boost</tspan>
+           y="-306.75479">boost</tspan>
       </text>
     </g>
     <path
@@ -27173,7 +27180,7 @@
            sodipodi:role="line"
            style="font-size:38.40000153px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#49608a;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Denmark;-inkscape-font-specification:Denmark"
            x="112.74373"
-           y="-306.75479">Boost</tspan>
+           y="-306.75479">boost</tspan>
       </text>
     </g>
     <path
@@ -28348,7 +28355,7 @@
            sodipodi:role="line"
            style="font-size:38.40000153px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#49608a;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Denmark;-inkscape-font-specification:Denmark"
            x="112.74373"
-           y="-306.75479">Boost</tspan>
+           y="-306.75479">boost</tspan>
       </text>
     </g>
     <path
