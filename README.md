@@ -8,7 +8,7 @@ Logos for each library are saved as vector graphics ([SVG](http://en.wikipedia.o
 
 To edit and modify a [vector graphics](http://en.wikipedia.org/wiki/Vector_graphics) you'll need [vector graphics editor](http://en.wikipedia.org/wiki/Vector_graphics_editor).
 
-Logos in this repository was created using [Inkscape](http://en.wikipedia.org/wiki/Inkscape), a multiplatform open source vector graphics editor which can be downloaded [here](http://inkscape.org) or by executing `sudo apt-get install inkscape` in terminal on Linux with apt-get. Tutorials can be found in the Net, e.g. [here](http://inkscape.org/en/learn/tutorials/).
+Logos in this repository was created using [Inkscape](http://en.wikipedia.org/wiki/Inkscape), a multiplatform open source vector graphics editor which can be downloaded [here](http://inkscape.org). To install it on Linux with `apt-get` you can execute `sudo apt-get install inkscape` in terminal. Tutorials can be found in the Net, e.g. [here](http://inkscape.org/en/learn/tutorials/).
 
 #### Example set
 
