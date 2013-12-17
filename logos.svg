@@ -16,7 +16,7 @@
    version="1.1"
    inkscape:version="0.48.4 r9939"
    sodipodi:docname="logos.svg"
-   inkscape:export-filename="/home/adam/lib/boost-logos/logos.png"
+   inkscape:export-filename="D:\lib\github\boost-logos\logos.png"
    inkscape:export-xdpi="59"
    inkscape:export-ydpi="59">
   <defs
@@ -63813,9 +63813,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.24748738"
-     inkscape:cx="-840.00328"
-     inkscape:cy="75.788299"
+     inkscape:zoom="0.35000001"
+     inkscape:cx="320.72545"
+     inkscape:cy="336.86736"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -63832,7 +63832,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -69316,7 +69316,7 @@
            y="601.90137"
            x="189.16077"
            id="tspan12988-7"
-           sodipodi:role="line">64</tspan></text>
+           sodipodi:role="line">65</tspan></text>
     </g>
     <g
        id="layer1-91"
